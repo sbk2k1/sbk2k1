@@ -68,7 +68,7 @@
 
 ## &#128202; Contribution Stats
 <p align="center">
-  <img alt="sbk2k1's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=sbk2k1&theme=react&hide_border=true"/>
+  <img alt="Boidushya's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=sbk2k1&theme=react&hide_border=true"/>
 </p>
 
 ## 📱 Socials
