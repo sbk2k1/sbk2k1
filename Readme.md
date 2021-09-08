@@ -59,20 +59,32 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on something (probably)
-- 🌱 I’m currently learning MERN Stack, Machine Learning & Blockchain /Cryptocurrency 
-- 👯 I’m looking to collaborate on any of the fields I'm pursuing 
-- 🤔 I’m looking for help with DSA 
-- 📫 How to reach me: +91 7439753613 or click on any of the socials below 
-- 😄 Pronouns: He/Him 
+## &#x1F680; GitHub Stats
+<p align="center">
+  <a align="center" href="https://github.com/sbk2k1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbk2k1&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="Boidushya's GitHub Stats" />
+  </a>
+ </p>
 
+## &#128202; Contribution Stats
+<p align="center">
+  <img alt="sbk2k1's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=sbk2k1&theme=react&hide_border=true"/>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sbk2k1)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saptarshi-bhattacharya-b9346a203/)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/saptarshi.bhattacharya.9066)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sbk_2k1/)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/offlVorteX)          [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/sbk_2k1)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/sbk2k1)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbk2k1)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sbk2k1&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sbk2k1)  
+## 📱 Socials
+<p align="center">
+	<a href="https://instagram.com/sbk_2k1">
+		<img src="https://img.shields.io/badge/Instagram-informational?style=social&logo=instagram"/>
+	</a>
+	<a href="https://www.linkedin.com/in/saptarshi-bhattacharya-b9346a203/">
+		<img src="https://img.shields.io/badge/Linked_In-informational?style=social&logo=linkedin"/>
+	</a>
+	<a href="https://www.reddit.com/u/offlvortex/">
+		<img src="https://img.shields.io/badge/Reddit-informational?style=social&logo=reddit"/>
+	</a>
+	<a href="https://www.github.com/sbk2k1/">
+		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
+	</a>
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/sbk2k1)  
