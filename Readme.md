@@ -52,6 +52,13 @@
   <img src="https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p> 
 
+## &#x269B; Language Stats
+<p align="center">
+  <a align="center" href="https://github.com/sbk2k1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbk2k1&theme=react&hide_border=true" />
+  </a>
+</p>
+
 - 🔭 I’m currently working on something (probably)
 - 🌱 I’m currently learning MERN Stack, Machine Learning & Blockchain /Cryptocurrency 
 - 👯 I’m looking to collaborate on any of the fields I'm pursuing 
@@ -65,8 +72,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbk2k1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sbk2k1&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sbk2k1)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sbk2k1)  
 
