@@ -12,6 +12,12 @@
   <br /> 
 </p>
 
+
+## &#x1f4c8; Contribution Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=sbk2k1&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
+</p>
+
 ## 🔧 Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=61D9FA&labelColor=20232A"/>
