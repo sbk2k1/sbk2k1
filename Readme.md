@@ -87,6 +87,6 @@
 	</a>
 </p>
 
-<p align="center">
+<div align="center">
 ![Profile views](https://gpvc.arturio.dev/sbk2k1)  
-</p>
+</div>
