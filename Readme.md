@@ -87,6 +87,8 @@
 	</a>
 </p>
 
-<div align="center">
-![Profile views](https://gpvc.arturio.dev/sbk2k1)  
+<div align="center">  
+<a href="https://www.github.com/sbk2k1/">
+<img src="https://gpvc.arturio.dev/sbk2k1"/>
+</a>
 </div>
