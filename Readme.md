@@ -8,7 +8,7 @@
 ### Hi there <img src="./wave.gif" width="30px">,  
 
 <p align="center">
-  My name is SBK (not my real name obv) and I like to create.
+  My name is SBK  and I like to create.
   <br /> 
 </p>
 
