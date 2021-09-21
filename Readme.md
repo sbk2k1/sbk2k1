@@ -62,7 +62,7 @@
 ## &#x1F680; GitHub Stats
 <p align="center">
   <a align="center" href="https://github.com/sbk2k1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbk2k1&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="Boidushya's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbk2k1&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="SBK's GitHub Stats" />
   </a>
  </p>
 
