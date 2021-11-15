@@ -1,5 +1,5 @@
 <a href="https://github.com/sbk2k1">
-  <img src="./Banner.png" alt="Header"/>
+  <img src="./Banner.png" alt="Header" style="height: 70%, width: 90%"/>
 </a>
 
 
@@ -8,7 +8,7 @@
 ### Hi there <img src="./wave.gif" width="30px">,  
 
 <p align="center">
-  My name is SBK  and I like to create.
+  My name is Saptarshi  and I like to create.
   <br /> 
 </p>
 
