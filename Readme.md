@@ -1,5 +1,5 @@
 <a href="https://github.com/sbk2k1">
-  <img src="./Banner.png" alt="Header" style="height: 70%, width: 90%"/>
+  <img src="./Banner.png" alt="Header" style="height: 500px, width: 700px"/>
 </a>
 
 
