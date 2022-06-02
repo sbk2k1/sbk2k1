@@ -2,7 +2,7 @@
   <img src="./Banner_small.png" alt="Header" style="height: 500px, width: 700px"/>
 </a>
 
-### Hi there <img src="./wave.gif" width="30px">,
+### Hi there <img src="./wave.gif" width="20px">,
 
 <p align="center">
   My name is Saptarshi  and I like to create.
