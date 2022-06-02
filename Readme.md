@@ -2,7 +2,7 @@
   <img src="./Banner_small.png" alt="Header" style="height: 500px, width: 700px"/>
 </a>
 
-### Hello There , <img src="./GOWK.png" style="width: 30px; transform: translateY(10)"/>
+### Hello There , <img src="./GOWK.png" style="width: 30px; transform: translate(0,10)"/>
 
 <p align="center">
   My name is Saptarshi  and I like to create.
