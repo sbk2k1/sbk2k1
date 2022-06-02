@@ -4,7 +4,7 @@
 
 ### Hello There !
 
- <img src="./GOWK.png" style="width: 150px"/>
+ <img align="center" src="./GOWK.png" style="width: 150px"/>
 
 <p align="center">
   My name is Saptarshi  and I like to create.
