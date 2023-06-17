@@ -11,7 +11,7 @@
 
 ## &#x1f4c8; Contribution Graph
 
-[![sbk2k1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sbk2k1&custom_title=This%20is%20a%20title&hide_border=true&theme=react-dark)](https://github.com/sbk2k1/github-readme-activity-graph)
+[![sbk2k1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sbk2k1&custom_title=My%20Contributions&hide_border=true&theme=react-dark)](https://github.com/sbk2k1/github-readme-activity-graph)
 
 ## 🔧 Technologies & Tools
 
