@@ -11,9 +11,7 @@
 
 ## &#x1f4c8; Contribution Graph
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sbk2k1&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
-</p>
+[![sbk2k1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sbk2k1&custom_title=This%20is%20a%20title&hide_border=true&theme=react-dark)](https://github.com/sbk2k1/github-readme-activity-graph)
 
 ## 🔧 Technologies & Tools
 
