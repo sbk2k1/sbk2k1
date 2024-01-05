@@ -3,11 +3,19 @@
 </a>
 
 ### Hello There , <img src="./GOWK.png" style="width: 30px;"/>
+## I'm Saptarshi, and I...
 
-<p align="center">
-  My name is Saptarshi  and I like to create.
-  <br /> 
-</p>
+>  `npx sbk2k1` 🤫
+
+- Build products that intrigue me!
+- Click heads on Counter-Strike.
+- Try to make Content for my [YouTube Channel](https://www.youtube.com/@sbk2k1)!
+- Am a [GitHub Campus Expert](https://education.github.com/experts)!
+- Have mentored juniors and worked with communities.
+- Have had the opportunity to work at a few startups!
+- love Hackthons!
+- Try to play the guitar.
+- Write blogs on [Hashnode](https://highonbugs.sbk2k1.tech/).
 
 ## &#x1f4c8; Contribution Graph
 
@@ -17,18 +25,25 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/OS-CentOS-informational?style=flat&logo=Redhat&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=electron&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-Nest-informational?style=flat&logo=nestjs&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A"/>
@@ -36,6 +51,8 @@
 </p>  
 <p align="center">
   <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=61D9FA&labelColor=20232A"/>
@@ -47,28 +64,6 @@
   <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>
-
-## &#x269B; Language Stats
-
-<p align="center">
-  <a align="center" href="https://github.com/sbk2k1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbk2k1&theme=react&hide_border=true" />
-  </a>
-</p>
-
-## &#x1F680; GitHub Stats
-
-<p align="center">
-  <a align="center" href="https://github.com/sbk2k1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbk2k1&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="SBK's GitHub Stats" />
-  </a>
- </p>
-
-## &#128202; Contribution Stats
-
-<p align="center">
-  <img alt="SBK's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=sbk2k1&theme=react&hide_border=true"/>
 </p>
 
 ## 📱 Socials
