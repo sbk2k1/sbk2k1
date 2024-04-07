@@ -114,9 +114,6 @@
 ##  Socials 📱
 
 <p align="center">
-	<a href="https://instagram.com/sbk_2k1">
-		<img src="https://img.shields.io/badge/Instagram-informational?style=social&logo=instagram"/>
-	</a>
 	<a href="https://www.linkedin.com/in/saptarshi-bhattacharya-b9346a203/">
 		<img src="https://img.shields.io/badge/Linked_In-informational?style=social&logo=linkedin"/>
 	</a>
@@ -129,3 +126,9 @@
 </p>
 
 >  `npx sbk2k1` 🤫
+
+---
+
+*"I dream of a day when they may rise above the billows to drag down in their reeking talons the remnants of puny, war-exhausted mankind – of a day when the land shall sink, and the dark ocean floor shall ascend amidst universal pandemonium."*
+
+`H. P. Lovecraft`
